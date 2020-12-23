@@ -1,4 +1,4 @@
-# TowerDefense
+# Tower Defense
 
 [Demo](https://moscaluconstantin.github.io/Tower-Defense/index.html)
 
