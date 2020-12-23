@@ -1,6 +1,6 @@
 # TowerDefense
 
-[Демо](https://moscaluconstantin.github.io/Tower-Defense/index.html)
+[Demo](https://moscaluconstantin.github.io/Tower-Defense/index.html)
 
 ## Project review
 
